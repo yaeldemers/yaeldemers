@@ -6,7 +6,7 @@
 - I recently graduated from McGill University in Montréal (Tio'tia:ke) with a double major in Physics and Computer Science
   and a minor in Statistics. 
 
-- I am currently working as a researcher under Professor Adrian Liu studying the intersection between Cosmology and Machine Learning.
-
-You can find most of my work here or on [my portfolio](https://yaeldemers.com/).  
+- I am currently working as a Financial Modeling Analyst at Direxyon Technologies here in Montréal. 
+  
+You can find most of my work here or on [my portfolio](https://yaeldemers.com/) (outdated).  
 If you wish to collaborate on any project, just shoot me an email at yaeldemers@gmail.com 🚀
