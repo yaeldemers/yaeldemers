@@ -7,9 +7,10 @@ I'm a game designer and programmer passionate about building innovative projects
 
 🎲 In 2019, I co-founded Shark and Sandals, a startup focused on designing and publishing tabletop games.
 
-🎓 I hold a double major in Physics and Computer Science, with a minor in Statistics from McGill University (Montréal/Tio'tia:ke). My research experience spans Quantum Computing (with Prof. Claude Crépeau) and the intersection of Machine Learning and Cosmology (with Prof. Adrian Liu).
+🎓 I hold a double major in Physics and Computer Science, with a minor in Statistics from McGill University (Montréal/Tio'tia:ke). 
+My research experience spans Quantum Computing (with Prof. Claude Crépeau) and the intersection of Machine Learning and Cosmology (with Prof. Adrian Liu).
 
-🚀 I’ve worked as a Financial Modeling Analyst and am now diving into tech entrepreneurship.
+🚀 I’ve interned at AWS, worked as a Financial Modeling Analyst, and am now embarking on a new adventure as a co-founder of an AI-driven medical startup.
 
 Find my work here on GitHub or via my [outdated] portfolio.<br>💌 Let’s collaborate! Reach out at yaeldemers@gmail.com.
 
