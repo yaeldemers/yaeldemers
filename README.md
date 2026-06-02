@@ -5,6 +5,6 @@
 
 I'm a founding engineer, researcher and game designer. 
 
-In 2024, I co-founded a med-tech startup that’s all about cutting down the administrative load for medical professionals so they can focus on what really matters. Patient care. I'm driven about building tech that lasts and actually makes a difference out there.
+In 2024, I co-founded a med-tech startup that’s all about cutting down the administrative load for medical professionals so they can focus on patient care. I'm driven about building tech that lasts and actually makes a difference out there.
 
 Feel free to connect with me if you’ve got questions, want to team up, or just feel like chatting !
